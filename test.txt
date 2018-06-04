@@ -1,2 +1,2 @@
 hey theretest 
-i've added a new line
+i've added a new line"  \r\nThis is life " 
