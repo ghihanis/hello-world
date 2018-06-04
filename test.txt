@@ -1,2 +1,3 @@
 hey theretest 
 i've added a new line"  \r\nThis is life " 
+"  \r\nThis is life " 
